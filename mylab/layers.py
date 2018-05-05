@@ -1,6 +1,6 @@
 ################################################################################
 # File contains classes which represent layers of neural network as the main
-# architecturels units: embedding layer, simple dence layer, RNN etc.
+# architecturel units: embedding layer, simple dence layer, RNN etc.
 ################################################################################
 
 import mylab.utils as utils
