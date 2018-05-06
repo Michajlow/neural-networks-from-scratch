@@ -8,7 +8,8 @@
   <li>Bidirectional LSTM</li>
   <li>Embedding layer</li>
 </ul>
-<p align="justify">All neural network classes could be stacked togather to one model and could be used similar to popular libraries like Keras. The implementation was made <b>purely for my educational purposes, could be useful for someone with the same purposes and obviously is not as efficient as any of the popular libraries or frameworks like Keras or Tensorflow.</b> However, it can give a deeper :) understanding and hands-on experience with the neural network architectures.</p>
+<p align="justify">All neural network classes could be stacked togather to one model and could be used similar to popular libraries like Keras. The implementation was made <b>purely for my educational purposes, could be useful for someone with the same purposes and obviously is not as efficient as any of the popular libraries or frameworks like Keras or Tensorflow.</b> However, it can give a deeper :) understanding and hands-on experience with the neural network architectures (just because...
+)</p>
 <img src="/pics/dl_mem1.png" alt="whatwedo" width="500" height="377">
 
 ### Getting Started
